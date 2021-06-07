@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Come one people, time is money, money is power, power is pizza, pizza is knowledge
 Use the left arrow to go back!
